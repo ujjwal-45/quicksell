@@ -1,0 +1,29 @@
+
+.container{
+    margin: 0;
+    overflow: hidden;
+    background-color: #e8e9ef;
+}
+
+.kanban-container{
+    display: flex;
+    gap: 20px;
+    padding-left: 40px;
+    margin-bottom: 10px;
+}
+
+.group-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.group-nav .first{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+.group-nav .second{
+    display: flex;
+    gap:4px;
+}
